@@ -1,0 +1,1 @@
+Stores the solutions of advent of code puzzles leading up to Christmas each year.
