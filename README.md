@@ -1,1 +1,1 @@
-Stores the solutions of advent of code puzzles leading up to Christmas each year.
+Stores the solutions of [advent of code](https://adventofcode.com/2025/about) puzzles leading up to Christmas each year.
