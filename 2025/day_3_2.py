@@ -5,7 +5,6 @@ from typing import List
 def read_file_lines(filename: str) -> List[str]:
     """
     Read lines in file input.
-    Comma-delimited.
     """
     input = []
     with fp.input(files=(filename), encoding="utf-8") as f:
